@@ -1,0 +1,16 @@
+{
+    "flash_players": [
+        {
+            "name": "Standalone Flash Player",
+            "path": "flash_player/flashplayer.exe",
+            "args": "{file}",
+            "enabled": true
+        }
+    ],
+    "auto_search_covers": false,
+    "copy_games_to_hidden": true,
+    "use_inapp_browser": true,
+    "default_thumbnail": "data/default_thumb.png",
+    "thumbnail_style": "default_picture",
+    "recent_searches": []
+}

@@ -1,0 +1,13 @@
+{
+    "flash_players": [
+        {
+            "name": "Standalone Flash Player",
+            "path": "flash_player/flashplayer.exe",
+            "args": "{file}",
+            "enabled": true
+        }
+    ],
+    "use_inapp_browser": true,
+    "thumbnail_style": "name_background",
+    "recent_searches": []
+}
